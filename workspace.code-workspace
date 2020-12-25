@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "WaagenWillyEsp",
+			"path": "WaagenWillyEsp"
 		}
 	],
 	"settings": {}
